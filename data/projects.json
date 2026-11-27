@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-11-27",
+  "source": "https://gtapcport.org/",
+  "live_json": "https://gtapcport.org/_d/tracker/projects",
+  "stages": ["Groundwork","Boots","Menus","World renders","In control","Playable"],
+  "projects": [
+    {"name":"victory-fork (Hyphen)","repo":"fxceless/victory-fork","family":"victory","stage":5,"stage_name":"In control","fps":"8–9.5 fps at the first boat mission, 10–14 fps in lighter views","test_hardware":"i7-14700KF + RTX 4070 12 GB, 32 GB RAM","page":"https://gtapcport.org/victory-fork-gta-6","removed":false},
+    {"name":"avatarmanz VIctory-7900XTX","repo":"avatarmanz/VIctory-7900XTX","family":"victory","stage":5,"stage_name":"In control","fps":"9–10 fps ray tracing on (4K drawn at 1440p); 16–25 fps ray tracing off","test_hardware":"i9-12900K + RX 7900 XTX, 64 GB RAM","page":"https://gtapcport.org/avatarmanz-gta-6","removed":false},
+    {"name":"VIctory Belobug AMD","repo":"Belobug/VIctory-Belobug-AMD","family":"victory","stage":5,"stage_name":"In control","fps":"13–22 fps indoors and in the first boat mission, 6–10 fps in busy streets","test_hardware":"i9-12900K + RX 7900 XTX, 64 GB RAM","page":"https://gtapcport.org/belobug-gta-6","removed":false},
+    {"name":"AnyXboxX","repo":"LooperSalty/AnyXboxX","family":"victory","stage":5,"stage_name":"In control","fps":"~16–17 fps median in the world (Series X mode)","test_hardware":"i7-13700KF + RTX 4070 SUPER, Windows 11","page":"https://gtapcport.org/anyxboxx-gta-6","removed":false},
+    {"name":"VItoriaBr","repo":"uiliannn/VItoriaBr","family":"victory","stage":5,"stage_name":"In control","fps":"4–6 fps in the world (current preset); 22 fps best experimental measurement","test_hardware":"RTX 5060 Ti 16 GB + Ryzen 7 5700X, 40 GB RAM","page":null,"removed":false},
+    {"name":"VIctory","repo":"Marvisak/VIctory","family":"victory","stage":4,"stage_name":"World renders","fps":"About 1 fps in the world, 30 fps menus","test_hardware":"AMD RX 6700 XT 12 GB, Windows 11","page":"https://gtapcport.org/victory-gta-6-pc-port","removed":false},
+    {"name":"XCL","repo":"xcl-dev/xcl","family":"independent","stage":4,"stage_name":"World renders","fps":"~5 fps in the world (NVIDIA branch)","test_hardware":"RTX 5090","page":"https://gtapcport.org/xcl-gta-6","removed":false},
+    {"name":"PercyScarlett","repo":"rpatty-dev/PercyScarlett","family":"victory","stage":4,"stage_name":"World renders","fps":"About 2–3 fps (Series S profile)","test_hardware":"RTX 2060 SUPER 8 GB","page":null,"removed":false},
+    {"name":"Leonida Continued","repo":"ubiquitarianism/leonida","family":"leonida","stage":3,"stage_name":"Menus","fps":"No world frame yet","test_hardware":"Native Windows and Linux/Proton","page":"https://gtapcport.org/leonida-gta-6-pc-port","removed":false},
+    {"name":"TuxBox","repo":"brcly/TuxBox","family":"independent","stage":3,"stage_name":"Menus","fps":"Not stated","test_hardware":"RTX 4070 Ti SUPER, Linux","page":null,"removed":false},
+    {"name":"Five Star Recomp","repo":"ThatRecompDev/five-star-recomp","family":"independent","stage":3,"stage_name":"Menus","fps":"30 fps in the opening cutscene\u0027s 2D parts","test_hardware":"Not stated","page":null,"removed":false},
+    {"name":"Xbox2Windows","repo":"R0Y00/Xbox2Windows","family":"independent","stage":2,"stage_name":"Boots","fps":"Not measured in game","test_hardware":"RTX 4060 Laptop","page":null,"removed":false},
+    {"name":"xbox-emulator (TomBox)","repo":"omonkeyz/xbox-emulator","family":"independent","stage":1,"stage_name":"Groundwork","fps":"GTA VI not run","test_hardware":"—","page":null,"removed":false},
+    {"name":"Leonida (original)","repo":"ItsNotRexed/Leonida","family":"leonida","stage":0,"stage_name":"Removed","fps":"—","test_hardware":"—","page":"https://gtapcport.org/leonida-gta-6-pc-port","removed":true},
+    {"name":"CGBJ-VIctory","repo":"JordanFromIT/CGBJ-VIctory","family":"victory","stage":0,"stage_name":"Removed","fps":"—","test_hardware":"RX 7900 XTX, CachyOS, Proton Experimental 11","page":"https://gtapcport.org/cgbj-gta-6","removed":true}
+  ]
+}
